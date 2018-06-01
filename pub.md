@@ -8,7 +8,7 @@ TODO
 ## Published
 
 1. Spang A*, Eme L*, **Saw JH**, Caceres EF, Zaremba-Niedzwiedzka K, Lombard J, Guy L, Ettema TJG (2018). Asgard archaea are the closest prokaryotic relatives of eukaryotes. PLoS Genetics. 14(3):e1007080.
-1. Zaremba-Niedzwiedzka K*, Caceres EF*, **Saw JH***, Bäckström D, Juzokaite L, Vancaester E, Seitz KW, Anantharaman K, Starnawski P, Kjeldsen KU, Stott MB, Nunoura T, Banfield JF, Schramm A, Baker BJ, Spang A, and Ettema TJG (2017). Metagenomic exploration of ASGARD archaea illuminates the origin of eukaryotic cellular complexity. Nature. 541(7637):353-358.
+1. Zaremba-Niedzwiedzka K\*, Caceres EF\*, **Saw JH**\*, Bäckström D, Juzokaite L, Vancaester E, Seitz KW, Anantharaman K, Starnawski P, Kjeldsen KU, Stott MB, Nunoura T, Banfield JF, Schramm A, Baker BJ, Spang A, and Ettema TJG (2017). Metagenomic exploration of ASGARD archaea illuminates the origin of eukaryotic cellular complexity. Nature. 541(7637):353-358.
 1. Baker BJ, **Saw JH**, Lind AE, Lazar C, Hinrichs K-U, Teske A, and Ettema TJG (2016). Genomic inference of the metabolism of cosmopolitan subsurface Archaea, Hadesarchaea. Nature Microbiology 1: 16002.
 1. **Saw JH**, Spang A, Zaremba-Niedzwiedzka K, Juzokaite L, Dodsworth JA, Murugapiran S, Colman DR, Takacs-Vesbach C, Hedlund BP, Guy L, Ettema TJG (2015). Exploring microbial dark matter to resolve the deep archaeal ancestry of eukaryotes. Phil. Trans. R. Soc. B 370(1678).
 1. Spang A*, **Saw JH***, Jørgensen SL*, Zaremba-Niedzwiedzka K*, Martijn J, Lind AE, van Eijk R, Schleper C, Guy L, Ettema TJG (2015). Complex archaea that bridge the gap between prokaryotes and eukaryotes. Nature 521: 173-179.
