@@ -12,10 +12,5 @@ Hi! I am currently a postdoc at Oregon State University working on understanding
 
 ## Research Interests
 
-Microbial diversity, ecology, and evolution.
-
-## Publications
-
-1. Paper1
-2. Paper2
+I am broadly interested in microbial diversity, ecology, and evolution and how they influence each other in different ecosystems (such as hot springs and hydrothermal vents). 
 
