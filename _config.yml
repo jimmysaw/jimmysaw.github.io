@@ -1,4 +1,15 @@
-#theme: jekyll-theme-minimal
+title: Jimmy Saw    
+url: "https://jimmysaw.github.io/"
+baseurl: "/researcher"
 
-remote_theme: researcher
+markdown: kramdown
 
+tracking_id: #
+
+footer: yes
+footer_url: "https://jimmysaw.github.io/"
+footer_text: "Home"
+
+sass:
+    style: compressed
+    sass_dir: _sass
