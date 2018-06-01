@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [sawj AT oregonstate.edu]
 
 * Phone: [+1-11111111](tel:+1-11111111)
 
@@ -11,16 +11,12 @@ is_contact: true
 
 ## Mailing Address
 
-> 123, Main Street
->
-> Washington, DC 
->
+> 226 Nash Hall
+> Corvallis, OR
 > United States
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Twitter](https://twitter.com/jimmysaw)
