@@ -4,6 +4,9 @@
 - name: "CV"
   link: "cv"
 
+- name: "Publications"
+  link: "pub"
+
 - name: "Research"
   link: "research"
 
