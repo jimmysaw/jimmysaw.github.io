@@ -10,7 +10,7 @@ Hi! Welcome to my Github page!
 
 [My ORCID page](http://orcid.org/0000-0001-8353-3854)
 
-## Research Interest
+## Research Interests
 
 Microbial diversity, ecology, and evolution.
 
