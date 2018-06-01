@@ -3,8 +3,8 @@ layout: default
 is_contact: true
 ---
 ## In Prep
-1. Saw JH, Malmstrom R, Woyke T, Temperton B, Sharpton T, Giovannoni SJ. Exploration of SAR11 hypervariable region diversity using hybrid sequencing technologies. In Prep.
-1. Saw JH, Landry Z, Nunoura T, Stepanauskas R, Giovannoni SJ. Diversity and abundance of flavin dependent monooxygenases in SAR202 clade bacteria revealed by single-cell genomics and metagenomics. In Prep.
+1. **Saw JH**, Malmstrom R, Woyke T, Temperton B, Sharpton T, Giovannoni SJ. Exploration of SAR11 hypervariable region diversity using hybrid sequencing technologies. In Prep.
+1. **Saw JH**, Landry Z, Nunoura T, Stepanauskas R, Giovannoni SJ. Diversity and abundance of flavin dependent monooxygenases in SAR202 clade bacteria revealed by single-cell genomics and metagenomics. In Prep.
 1. Pelve EA\*, **Saw JH**\*, Hedlund B, Nunoura T, Spang A, and Ettema TJG. Cultivation-independent genomics of marine and terrestrial Korarchaeota reveal insights into their diversity, evolution and ecology. In Prep.
 
 ## Published
