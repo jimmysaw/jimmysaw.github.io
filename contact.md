@@ -13,7 +13,7 @@ is_contact: true
 
 > 226 Nash Hall
 >
-> Corvallis, OR
+> Corvallis, OR 97331
 >
 > United States
 
