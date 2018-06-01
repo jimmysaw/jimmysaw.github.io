@@ -3,7 +3,7 @@ url: "https://jimmysaw.github.io/"
 baseurl: "/"
 
 #remote_theme: researcher
-remote_theme: Gravity
+remote_theme: gravity
 
 markdown: kramdown
 
