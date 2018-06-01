@@ -15,12 +15,15 @@ I am currently working on SAR202 diversity and evolution. Some stats on SAR202 a
 
 TODO
 
+---
 
 # Uppsala University
 
 ## Archaeal diversity and origin of eukaryotes
 
 TODO
+
+---
 
 # University of Hawaii at Manoa
 
