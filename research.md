@@ -21,20 +21,13 @@ I am studying diversity of hypervariable regions (HVRs) in SAR11 bacteria using 
 
 ### Archaeal diversity and origin of eukaryotes
 
-TODO
-
 ---
 
 ## University of Hawaii at Manoa
 
 ### Cultivation and complete genome sequencing of *Gloeobacter kilaueensis* JS1
 
-TODO
-
 ### Extremophile genomes
-
-TODO
 
 ### Papaya genome project
 
-TODO
