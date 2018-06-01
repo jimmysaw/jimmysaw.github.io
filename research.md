@@ -13,7 +13,7 @@ I am currently working on SAR202 diversity and evolution. Some stats on SAR202 a
 
 ## SAR11
 
-TODO
+I am studying diversity of hypervariable regions (HVRs) in SAR11 bacteria using hybrid sequencing technologies (using both Illumina and Oxford Nanopore technologies).
 
 ---
 
