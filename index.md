@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-Hi! Welcome to my Github page!
+Hi! I am currently a postdoc at Oregon State University working on understanding the roles microbes play in carbon metabolism in the deep ocean. 
 
 [My Google Scholar page](https://scholar.google.com/citations?user=9Vx-JTgAAAAJ&hl=en)
 
@@ -19,4 +19,3 @@ Microbial diversity, ecology, and evolution.
 1. Paper1
 2. Paper2
 
----
