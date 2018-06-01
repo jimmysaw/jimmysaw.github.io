@@ -3,16 +3,16 @@ layout: default
 is_contact: true
 ---
 
-* Email: [sawj AT oregonstate.edu]
-
-* Phone: [+1-11111111](tel:+1-11111111)
+* Email: sawj AT oregonstate.edu
 
 ---
 
 ## Mailing Address
 
 > 226 Nash Hall
+>
 > Corvallis, OR
+>
 > United States
 
 ---
