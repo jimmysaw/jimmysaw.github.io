@@ -19,6 +19,6 @@ Postdoctoral Scholar (Uppsala University) - 2012 to 2016
 
 Graduate Research Assistant (Los Alamos National Laboratory) - 2007 to 2009
 
-## Publications
+## Other training
 
-TODO
+USC GeoBiology intensive training course (June 20$^th^$ to July 20$^th^$, 2010)
