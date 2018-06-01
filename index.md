@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-Hi! I am currently a postdoc at Oregon State University working on understanding the roles microbes play in carbon metabolism in the deep ocean. 
+Hi! I am currently a postdoc at Oregon State University working on understanding the roles of microbes in carbon utilization in the deep ocean. 
 
 [My Google Scholar page](https://scholar.google.com/citations?user=9Vx-JTgAAAAJ&hl=en)
 
