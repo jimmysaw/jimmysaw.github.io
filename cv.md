@@ -21,4 +21,4 @@ Graduate Research Assistant (Los Alamos National Laboratory) - 2007 to 2009
 
 ## Other training
 
-USC GeoBiology intensive training course (June 20$^th^$ to July 20$^th^$, 2010)
+USC GeoBiology intensive training course (June 20<sup>th</sup> to July 20<sup>th</sup>, 2010)
