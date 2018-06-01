@@ -2,7 +2,8 @@ title: Jimmy Saw
 url: "https://jimmysaw.github.io/"
 baseurl: "/"
 
-remote_theme: researcher
+#remote_theme: researcher
+remote_theme: Gravity
 
 markdown: kramdown
 
