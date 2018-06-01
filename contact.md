@@ -3,6 +3,8 @@ layout: default
 is_contact: true
 ---
 
+## Contact info
+
 * Email: sawj AT oregonstate.edu
 
 ---
