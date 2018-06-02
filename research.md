@@ -21,7 +21,7 @@ I am also studying diversity of hypervariable regions (HVRs) in SAR11 bacteria u
 
 ### Archaeal diversity and the origin of eukaryotes
 
-I worked in the lab of Thijs Ettema in Uppsala Sweden from 2012 to 2016 to uncover archaeal diversity using cultivation-independent approaches (such as single-cell genomics and metagenomics).
+I worked in the lab of Thijs Ettema in Uppsala University in Sweden from 2012 to 2016 to uncover the archaeal diversity using cultivation-independent approaches (such as single-cell genomics and metagenomics).
 We discovered novel archaeal phyla (the Lokiarchaeota), and subsequently the Asgard superphylum (consisting of Loki-, Thor-, Odin-, and Heimdall-archaeota).
 
 We also sequenced the draft genomes of a novel class of archaea from Euryarchaeota, now known as Hadesarchaeota.
