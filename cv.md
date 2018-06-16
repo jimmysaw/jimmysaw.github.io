@@ -25,7 +25,7 @@ USC GeoBiology intensive training course (June 20<sup>th</sup> to July 20<sup>th
 
 ## Awards, Grants, and Fellowships received
 
-- Marie Curie International Incoming Fellowships (IIF): §197,812 (2014 - 2016)
+- Marie Curie International Incoming Fellowships (IIF): €197,812 (2014 - 2016)
 - Wenner-Gren postdoktorsstipendium för utländsk forskare: 300,000 SEK (2013 - 2014)
 - 1st prize in 2010 University of Hawai‘i Business Plan Competition: $10,000 (2010)
 - Lewis and Clark Fund for Exploration and Field Research in Astrobiology award: $2400 (2009)
@@ -36,11 +36,11 @@ USC GeoBiology intensive training course (June 20<sup>th</sup> to July 20<sup>th
 
 ### Oregon State University
 
-- Guest lecturer (2016 and 2017) MB442?
+- Guest lecturer (2016 and 2017) MB420/520
 
 ### Uppsala University
 
-- SciLife Lab workshop instructor
+- SciLife Lab single-cell and metagenomics workshop instructor
 
 ### University of Hawaii at Manoa
 
