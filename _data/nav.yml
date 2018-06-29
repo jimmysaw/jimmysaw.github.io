@@ -1,6 +1,8 @@
 - name: "Contact"
   link: "contact"
 
+- name: "tools"
+  link: "tools"
 - name: "CV"
   link: "cv"
 
