@@ -12,7 +12,7 @@ I am currently looking for a highly motivated PhD student with background in mic
 I am looking for candidates with the following skill sets:
 
 **Essential skills:**
-- Experience in culturing microbes
+- Experience in culturing microbes (especially cyanobacteria)
 - Experience in microscopy (epifluorescence, confocal, electron microscopy, etc)
 - Molecular biological techniques (PCR, cloning, library preparation, etc)
 - Field experience and willingness to travel to collect samples
