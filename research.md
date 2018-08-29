@@ -40,8 +40,6 @@ The complete genome of this cyanobacterium was described in 2012<sup>4</sup>.
 
 ### Papaya genome project
 
-The 
-
 ## References
 [* denotes equal contribution]
 
