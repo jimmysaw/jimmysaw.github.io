@@ -26,9 +26,9 @@ Appointment of the position is contingent upon acceptance into the George Washin
 
 Please read more about the graduate program here and fellowships available at GWU:
 
-[https://biology.columbian.gwu.edu/graduate-faq](https://biology.columbian.gwu.edu/graduate-faq)
+[GWU biology FAQs](https://biology.columbian.gwu.edu/graduate-faq)
 
-[https://biology.columbian.gwu.edu/apply-now](https://biology.columbian.gwu.edu/apply-now)
+[Apply to GWU biology PhD program](https://biology.columbian.gwu.edu/apply-now)
 
 [Columbian College Fellowships](https://www2.gwu.edu/~fellows/ccas.html)
 
@@ -36,7 +36,7 @@ Please read more about the graduate program here and fellowships available at GW
 
 [Research Fellowships](https://www2.gwu.edu/~fellows/research.html)
 
-Applicants who are interested in joining my lab should email me [jimmysaw AT gmail DOT com] a copy of their recent curriculum vitae, a cover letter indicating their research interests, previous research, and motivation to work with me, and if possible, names and contact information for two references. Applicants are expected to hold a BS or MS degree in microbiology or related disciplines at the time of the appointment.
+Applicants who are interested in joining my lab should email me [jimmysaw AT gmail DOT com] a copy of their recent curriculum vitae, a cover letter indicating their research interests, previous research, and motivation to work with me, and if possible, names and contact information for two references. Applicants are expected to hold a BS or MS degree in microbiology or related disciplines at the time of appointment.
 
 ### Postdoc position
 
