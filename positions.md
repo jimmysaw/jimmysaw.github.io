@@ -16,7 +16,7 @@ I am looking for candidates with the following skill sets:
 - Experience in microscopy (epifluorescence, confocal, electron microscopy, etc)
 - Molecular biological techniques (PCR, cloning, library preparation, etc)
 - Field experience and willingness to travel to collect samples
-- Familiarity with basic bioinformatics analyses
+- Familiarity with basic bioinformatic analyses
 
 **Additional skills:**
 - Experience in working with cyanobacteria
