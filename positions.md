@@ -13,4 +13,4 @@ The program supports 5 years of guaranteed support (2 years of TAship and 3 year
 
 Please read more about the graduate program here:
 
-https://biology.columbian.gwu.edu/graduate-faq
+[https://biology.columbian.gwu.edu/graduate-faq](https://biology.columbian.gwu.edu/graduate-faq)
