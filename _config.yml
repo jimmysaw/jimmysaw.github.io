@@ -1,5 +1,5 @@
 title: Saw Microbial Diversity Lab
-url: "https://jimmysaw.github.io/"
+url: "//jimmysaw.github.io/"
 baseurl: "/"
 
 remote_theme: researcher
@@ -9,7 +9,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://jimmysaw.github.io/"
+footer_url: "//jimmysaw.github.io/"
 footer_text: "Home"
 
 sass:

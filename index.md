@@ -14,3 +14,6 @@ Hi! I am currently a postdoc at Oregon State University working on understanding
 
 I am broadly interested in microbial diversity, ecology, and evolution and how they influence each other in different ecosystems (such as hot springs and hydrothermal vents). 
 
+## News
+
+I will be starting as an assistant professor at George Washington University biological sciences starting January 2019.

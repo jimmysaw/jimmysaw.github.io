@@ -3,8 +3,12 @@
 
 - name: "tools"
   link: "tools"
-- name: "CV"
-  link: "cv"
+
+- name: "positions"
+  link: "positions"
+
+- name: "people"
+  link: "people"
 
 - name: "Publications"
   link: "pub"
@@ -12,5 +16,5 @@
 - name: "Research"
   link: "research"
 
-- name: "About"
+- name: "Home"
   link: "/"
