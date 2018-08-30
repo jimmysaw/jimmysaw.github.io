@@ -16,4 +16,4 @@ I am broadly interested in microbial diversity, ecology, and evolution and how t
 
 ## News
 
-I will be starting as an assistant professor at George Washington University biological sciences starting January 2019.
+I will be starting as an assistant professor at George Washington University department of biological sciences starting January 2019.
