@@ -3,9 +3,7 @@ layout: default
 is_contact: true
 ---
 
-## Open positions
-
-### PhD student position
+## PhD student position
 
 The Saw lab is currently looking for highly motivated PhD students with a background in microbiology to lead projects to cultivate previously uncultivated microbes from various habitats. The project will initially focus on cultivation and genomics of deep-branching cyanobacteria that might hold clues to the origin and evolution of oxygenic photosynthesis. This position will involve field trips to collect samples, microbiological (cultivation/experimental), and computational (genomics/metagenomics) components.
 
