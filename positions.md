@@ -5,7 +5,7 @@ is_contact: true
 
 ## Open positions
 
-[PhD student position](phd)
+### [PhD student position](phd)
 
 ### Postdoc position
 
