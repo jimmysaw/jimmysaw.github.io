@@ -10,14 +10,14 @@
 - name: "Publications"
   link: "pub"
 
-- name: "People"
-  link: "people"
-  
 - name: "Teaching"
   link: "teaching"
 
 - name: "Research"
   link: "research"
+
+- name: "People"
+  link: "people"
 
 - name: "Home"
   link: "/"
