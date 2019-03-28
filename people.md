@@ -5,6 +5,14 @@ is_contact: true
 
 ## Lab members
 
+### Jimmy Saw (PI)
+
+<img class="profile-picture" src="images/jimmy.jpg">
+
+Hi, everyone! My name is Jimmy Saw and I am originally from Myanmar (Burma) but I have lived in various places around the world.
+Some of the places I have lived in are: Singapore, Hawaii, New Mexico, Oregon, and Sweden. I am fascinated by microbes and their diversity.
+I love to travel and go on roadtrips and I also enjoy cooking.
+
 ### Manolya Balbay (PhD student)
 
 <img class="profile-picture" src="images/manolya.jpg">
