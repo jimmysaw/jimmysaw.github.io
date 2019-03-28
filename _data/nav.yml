@@ -1,17 +1,17 @@
 - name: "Contact"
   link: "contact"
 
-- name: "tools"
+- name: "Tools"
   link: "tools"
 
-- name: "positions"
+- name: "Positions"
   link: "positions"
-
-- name: "people"
-  link: "people"
 
 - name: "Publications"
   link: "pub"
+
+- name: "People"
+  link: "people"
 
 - name: "Research"
   link: "research"

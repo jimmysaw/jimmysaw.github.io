@@ -5,15 +5,15 @@ is_contact: true
 
 ## Contact info
 
-* Email: sawj AT oregonstate.edu
+* Email: jsaw AT gwu.edu
 
 ---
 
 ## Mailing Address
 
-> 226 Nash Hall
+> 2029 G St NW, Bell 303
 >
-> Corvallis, OR 97331
+> Washington, DC 20052
 >
 > United States
 
