@@ -9,7 +9,7 @@ is_contact: true
 
 <img class="profile-picture" src="images/js.jpg">
 
-Hi, everyone! I am fascinated by microbes and their diversity! I attended University of Hawaiʻi at Mānoa from undergraduate through Ph.D. years and I worked with Stuart Donachie for my Ph.D. degree on cultivation and complete genome sequencing of *Gloeobacter kilaueensis* JS1.
+Hi, everyone! I am fascinated by microbes and their diversity! I attended the University of Hawaiʻi at Mānoa from undergraduate through Ph.D. years and I worked with Stuart Donachie for my Ph.D. degree on cultivation and complete genome sequencing of *Gloeobacter kilaueensis* JS1.
 I then did postdoctoral research on archaeal diversity and evolution with Thijs Ettema at Uppsala University in Sweden from 2012 to 2016, then did another postdoctoral research on SAR11 and SAR202 pangenomics with Steve Giovannoni at Oregon State University from 2016 to 2018.
 I am originally from Myanmar (Burma) but I have lived in various places around the world. Some of the places I have lived in are: Singapore, Hawaii, New Mexico, Oregon, and Sweden. I love to travel, hike, go on roadtrips, try new food, and cook new dishes.
 
