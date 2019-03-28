@@ -5,11 +5,21 @@ is_contact: true
 
 ## Lab members
 
-PI: Jimmy Saw
+### Manolya Balbay (PhD student)
 
+<img class="profile-picture" src="images/manolya.jpg">
 
-Test <img class="profile-picture" src="images/manolya.jpg">
+I am from Turkey. I received my bachelor's degree from the Department of Molecular Biology and Genetics at Istanbul University in Turkey and my master's degree from the Munich Graduate School for Evolution, Ecology and Systematics at the Ludwig-Maximilians-University of Munich in Germany. I am currently a PhD student in the Department of Biological Sciences at the George Washington University. My research interests are focused on microbial genome evolution, evolutionary ecology of microbial populations, biogeochemical nutrient cycles, co-evolution of the biosphere and the geosphere, geomicrobiology, the origin and evolution of life on Earth and astrobiology. I also have a particular fascination with bacterial and archaeal species living in extreme environments, such as hydrothermal vents, geothermal hot springs, volcanoes, hypersaline lakes, deserts, Antarctic ice and the deep subsurface. My PhD research aims to discover novel microorganisms and functional pathways, characterize microbial activity, gain insights into the physiological adaptation and survival of microbial communities, and decipher microbe-mineral interactions in extreme environments considered as potential analogs for habitable zones on other planets and moons in order to expand our understanding of the origin, distribution, and evolution of life in the solar system/universe. My hobbies include hiking, visiting museums and ancient cities, and reading archaeology and history magazines.
 
-Test <img class="profile-picture" src="images/sarah.jpg">
+### Saleh Naeem (Undergraduate student)
 
 Test <img class="profile-picture" src="images/saleh.png">
+
+My name is Saleh Naeem and I am a junior, majoring in biology and currently on the pre-med track. I am originally from Pakistan and really excited to indulge myself in the microbial diversity research this year with Professor Saw. My interest in this research specifically involves computation analysis based on the microbial ecology databases that are accessible online.  During my free time, I like to go to the gym and try to keep myself mentally as well as physically fit. 
+
+### Sarah Schmoyer (Undergraduate student)
+
+Test <img class="profile-picture" src="images/saleh.png">
+
+Sarah Schmoyer is a freshman from Hillsdale, NJ studying biology and international affairs. She first got involved with research in high school and later worked in a microbiology lab. She is looking forward to learning more about lab work, research, and microbiology.
+
