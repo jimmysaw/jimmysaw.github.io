@@ -12,6 +12,9 @@
 
 - name: "People"
   link: "people"
+  
+- name: "Teaching"
+  link: "teaching"
 
 - name: "Research"
   link: "research"

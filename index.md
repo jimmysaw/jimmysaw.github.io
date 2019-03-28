@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-<img src="images/gw.png" height="112" width="150">
-
 ## Welcome to the *Saw* Microbial Diversity Lab at the George Washington University!
 
 <img src="images/hs1.png">
