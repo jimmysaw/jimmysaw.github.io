@@ -4,6 +4,8 @@ layout: default
 
 ## Welcome to the Saw Microbial Diversity Lab at the George Washington University!
 
+<img src="images/hotspring1.jpg">
+
 We are interested in diversity, ecology, and evolution of microbes in extreme habitats such as hot springs and hydrothermal vents and also habitats that are least explored/studied. 
 Diversity, Ecology, and Evolution are intricately tied together in biology; evolution brings about diversity, diversity in turn dictates the ecology, and ecology brings about evolution of organisms.
 
