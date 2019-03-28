@@ -5,7 +5,7 @@ is_contact: true
 
 ## Lab members
 
-### Jimmy Saw (PI)
+### Jimmy Saw (Principle Investigator)
 
 <img class="profile-picture" src="images/js.jpg">
 
