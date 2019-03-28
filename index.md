@@ -4,6 +4,8 @@ layout: default
 
 ## Welcome to the *Saw* Microbial Diversity Lab at the George Washington University!
 
+<img src="images/gw.png">
+
 <img src="images/hs1.png">
 
 We are interested in diversity, ecology, and evolution of microbes in extreme habitats such as hot springs and hydrothermal vents and also habitats that are least explored/studied. 
