@@ -2,17 +2,20 @@
 layout: default
 ---
 
-## Welcome to the Saw Lab at the George Washington University!
+## Welcome to the Saw Microbial Diversity Lab at the George Washington University!
 
 We are interested in diversity, ecology, and evolution of microbes in extreme habitats such as hot springs and hydrothermal vents and also habitats that are least explored/studied. 
-Diversity, Ecology, and Evolution are interconnected and intricately tied together. 
-Evolution brings about diversity, diversity in turn dictates the ecology, and ecology brings about further evolution.
+Diversity, Ecology, and Evolution are intricately tied together in biology; evolution brings about diversity, diversity in turn dictates the ecology, and ecology brings about evolution of organisms.
 
-## Archaeal diversity 
+Specifically, we aim to:
+- understand how unique assemblage of organism in extreme habitats arose
+- explore functional diversity of microbial community in extreme habitats
+- cultivate previously uncultivated archaea and bacteria from various habitats
+- understand the evolutionary forces that drove the functional diversity of microoganisms in extreme environments
+- evolutionary significance of major microbial groups
 
+## Latest news
 
-[My Google Scholar page](https://scholar.google.com/citations?user=9Vx-JTgAAAAJ&hl=en)
+We are excited to welcome Manolya Balbay as a PhD student to GWU PhD program in Biological Sciences. Welcome, Manolya!
 
-[My ORCID page](http://orcid.org/0000-0001-8353-3854)
-
-
+We are also excited to have Sarah Schmoyer and Saleh Naeem to our lab. Both are undergraduate students at GWU. Welcome, Sarah and Saleh!
