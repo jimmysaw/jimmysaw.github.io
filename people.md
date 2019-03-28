@@ -11,7 +11,7 @@ is_contact: true
 
 Hi, everyone! My name is Jimmy Saw and I am originally from Myanmar (Burma) but I have lived in various places around the world.
 Some of the places I have lived in are: Singapore, Hawaii, New Mexico, Oregon, and Sweden. I am fascinated by microbes and their diversity.
-I love to travel and go on roadtrips and I also enjoy cooking.
+I love to travel, go on roadtrips, and cook new dishes.
 
 ### Manolya Balbay (PhD student)
 
