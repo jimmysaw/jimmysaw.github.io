@@ -16,4 +16,4 @@ Giovannoni SJ, Halsey KH, **Saw J**, Muslin O, Suffridge CP, Sun J, Lee CP, Moor
 ### Free Software Fridays! 
 [https://github.com/jimmysaw/fsf](https://github.com/jimmysaw/fsf)
 
-A collection of some possibly useful scripts I am sharing publicly on github.
+A collection of some *possibly* useful scripts I am sharing publicly on github.
