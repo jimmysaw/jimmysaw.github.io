@@ -7,9 +7,9 @@ We are interested in diversity, ecology, and evolution of microbes in extreme ha
 These three overarching themes are interconnected and intricately tied together.
 Evolution brings about diversity, diversity in turn dictates the ecology, and ecology brings about further evolution.
 
-## Ongoing research projects
+## Ongoing research projects (*under construction*)
 
-### SAR202
+### SAR202 pangenomics
 
 ### Functional diversity in hot springs
 
