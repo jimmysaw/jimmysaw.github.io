@@ -5,13 +5,12 @@ is_contact: true
 
 ## Open positions
 
-### [PhD student position](phd)
+Please contact me for more information.
 
 ### Postdoc position
 
-To be announced in late 2018
-
+Please contact me for more information.
 
 ### Undergraduate students
 
-Please contact me in early 2019
+Please contact me for more information.
