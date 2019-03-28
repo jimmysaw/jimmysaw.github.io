@@ -18,6 +18,6 @@ Specifically, we aim to:
 
 ## Latest news
 
-We are excited to welcome Manolya Balbay as a PhD student to GWU PhD program in Biological Sciences. Welcome, Manolya!
+We are excited to welcome Manolya Balbay as a PhD student to GWU PhD program in Biological Sciences. She will be joining the lab in Fall 2019. Welcome, Manolya!
 
 We are also excited to have Sarah Schmoyer and Saleh Naeem to our lab. Both are undergraduate students at GWU. Welcome, Sarah and Saleh!
