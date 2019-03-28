@@ -13,7 +13,7 @@ Specifically, we aim to:
 - explore functional diversity of microbial community in extreme habitats
 - cultivate previously uncultivated archaea and bacteria from various habitats
 - understand the evolutionary forces that drove the functional diversity of microoganisms in extreme environments
-- evolutionary significance of major microbial groups
+- investigate evolutionary significances of major microbial groups
 
 ## Latest news
 
