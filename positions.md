@@ -5,11 +5,13 @@ is_contact: true
 
 ## Open positions
 
-Please contact me for more information.
-
 ### Postdoc position
 
 Please contact me for more information.
+
+### Graduate student positions (M.S. and Ph.D.)
+
+I am actively looking for masters and Ph.D. students to join my lab. If you are interested, please send an email to get in touch with me about potential research projects.
 
 ### Undergraduate students
 
