@@ -13,4 +13,4 @@ is_contact: true
 
 ### Diversity of early oxygenic *Cyanobacteria*
 
-### Cultivation of archaea from hot springs
+### Cultivation of *Archaea* and *Bacteria* from hot springs
