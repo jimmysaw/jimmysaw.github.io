@@ -15,4 +15,4 @@ I am actively looking for graduate students to join my lab. If you are intereste
 
 ### Undergraduate students
 
-Please contact me for more information.
+I am currently not taking in undergraduate students for the summer of 2019. Please contact me for opportunities in Fall 2019.
