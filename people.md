@@ -31,3 +31,8 @@ My name is Saleh Naeem and I am a junior, majoring in biology and currently on t
 
 Sarah Schmoyer is a freshman from Hillsdale, NJ studying biology and international affairs. She first got involved with research in high school and later worked in a microbiology lab. She is looking forward to learning more about lab work, research, and microbiology.
 
+### Maria Izzi (High school student)
+
+<img class="profile-picture" src="images/mi.png">
+
+Maria is a student with a passion for bioinformatics and artificial intelligence. She has experience with various basic lab procedures and assays, and is always excited and eager to learn as much as possible. She is involved with a number of activities and non-profits, and works to promote computer science education in underrepresented groups. Maria is also a leader and planner for many STEM events in her community. She will be studying microbial genomics and bioinformatics, as well as artificial intelligence, next year.
