@@ -11,6 +11,9 @@ Giovannoni SJ, Halsey KH, **Saw J**, Muslin O, Suffridge CP, Sun J, Lee CP, Moor
 
 [https://bitbucket.org/jimmysaw/arsenic/src/master/osu_plot_TARA_arsenate_reductases_map.py](https://bitbucket.org/jimmysaw/arsenic/src/master/osu_plot_TARA_arsenate_reductases_map.py)
 
+Saw JH, Nunoura T, Hirai M, Takaki Y, Parsons R, Michelsen M, Longnecker K, Kujawinski EB, Stepanauskas R, Landry Z, Carlson CA, Giovannoni SJ (2019). Pangenomics reveal diversification of enzyme families and niche specialization in globally abundant SAR202 bacteria. bioRxiv.
+[https://bitbucket.org/jimmysaw/sar202_pangenomics](https://bitbucket.org/jimmysaw/sar202_pangenomics)
+
 
 
 ### Free Software Fridays! 
