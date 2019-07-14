@@ -6,8 +6,10 @@ is_contact: true
 
 ## In Prep
 1. **Saw JH**, Malmstrom R, Woyke T, Temperton B, Sharpton T, Giovannoni SJ. Exploration of SAR11 hypervariable region diversity using hybrid sequencing technologies. In Prep.
-1. **Saw JH**, Landry Z, Nunoura T, Stepanauskas R, Giovannoni SJ. Diversity and abundance of flavin dependent monooxygenases in SAR202 clade bacteria revealed by single-cell genomics and metagenomics. In Prep.
 1. Pelve EA\*, **Saw JH**\*, Hedlund B, Nunoura T, Spang A, and Ettema TJG. Cultivation-independent genomics of marine and terrestrial Korarchaeota reveal insights into their diversity, evolution and ecology. In Prep.
+
+## In Review/Preprint
+1. **Saw JH**, Nunoura T, Hirai M, Takaki Y, Parsons R, Michelsen M, Longnecker K, Kujawinski EB, Stepanauskas R, Landry Z, Carlson CA, Giovannoni SJ (2019). Pangenomics reveal diversification of enzyme families and niche specialization in globally abundant SAR202 bacteria. bioRxiv.
 
 ## Published
 1. Giovannoni SJ, Halsey KH, **Saw J**, Muslin O, Suffridge CP, Sun J, Lee CP, Moore ER, Temperton B, Noell SE (2019). A Parasitic Arsenic Cycle That Shuttles Energy from Phytoplankton to Heterotrophic Bacterioplankton. **MBio**. 10(2). pii: e00246-19.
