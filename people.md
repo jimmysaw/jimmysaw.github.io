@@ -25,12 +25,6 @@ I am from Turkey. I received my bachelor's degree from the Department of Molecul
 
 My name is Saleh Naeem and I am a junior, majoring in biology and currently on the pre-med track. I am originally from Pakistan and really excited to indulge myself in the microbial diversity research this year with Professor Saw. My interest in this research specifically involves computation analysis based on the microbial ecology databases that are accessible online.  During my free time, I like to go to the gym and try to keep myself mentally as well as physically fit. 
 
-### Sarah Schmoyer (Undergraduate student)
-
-<img class="profile-picture" src="images/ss.png">
-
-Sarah Schmoyer is a freshman from Hillsdale, NJ studying biology and international affairs. She first got involved with research in high school and later worked in a microbiology lab. She is looking forward to learning more about lab work, research, and microbiology.
-
 ### Maria Izzi (High school student)
 
 <img class="profile-picture" src="images/mi.png">
