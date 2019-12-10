@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Welcome to the *Saw* Microbial Diversity Lab at the George Washington University!
+## Welcome to the Saw Microbial Diversity Lab at the George Washington University!
 
 <img src="images/hs1.png">
 

@@ -7,12 +7,8 @@ is_contact: true
 
 ### [Postdoctoral opportunities](postdocs.md)
 
-### Graduate student opportunities (M.S. and Ph.D.)
+### [Graduate student opportunities (M.S. and Ph.D.)](grads.md)
 
-I am actively looking for graduate students to join my lab. If you are interested, please send an email to get in touch with me about potential research projects.
+### [Undergraduate student opportunities](undergrads.md)
 
-### Undergraduate student opportunities
-
-I am currently not taking in undergraduate students.
-
-### High school student opportunities
+### [High school student opportunities](hs.md)
