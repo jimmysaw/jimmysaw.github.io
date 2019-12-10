@@ -14,3 +14,7 @@ If you are interested in joining my lab as a postdoc, there are many ways to do 
 [Life Sciences Research Foundation](http://www.lsrf.org/)
 
 [Aguron Geobiology Fellowships](https://agi.org/geobiology/fellowships/)
+
+[NSF Postdoctoral Research Fellowships in Biology  (PRFB)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622)
+
+[L'Oréal USA For Women in Science Fellowship (Due January 31, 2020)](https://lorealfwis.aaas.org/login/indexA.cfm)
