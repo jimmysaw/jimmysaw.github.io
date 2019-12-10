@@ -1,0 +1,16 @@
+---
+layout: default
+is_contact: true
+---
+
+## Postdoctoral opportunities
+
+I will be posting an ad in the near future to recruit a postdoctoral researcher to work in my lab.
+
+If you are interested in joining my lab as a postdoc, there are many ways to do it. I have listed below some of the postdoctoral fellowships available.
+
+[Marie Skłodowska-Curie Individual Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)
+
+[Life Sciences Research Foundation](http://www.lsrf.org/)
+
+[Aguron Geobiology Fellowships](https://agi.org/geobiology/fellowships/)
