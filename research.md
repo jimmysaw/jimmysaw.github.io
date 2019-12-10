@@ -5,12 +5,12 @@ is_contact: true
 
 ## Ongoing research projects (*under construction*)
 
-### SAR202 pangenomics
+### [Diversity and evolution of early oxygenic phototrophs](cyanos.md)
 
-### SAR11 pangenomics
+### [Microbial community assemblage in hot springs](hotsprings.md)
+
+### [SAR202 diversity and evolution](sar202.md)
 
 ### Functional diversity in hot springs
-
-### Diversity of early oxygenic *Cyanobacteria*
 
 ### Cultivation of *Archaea* and *Bacteria* from hot springs
