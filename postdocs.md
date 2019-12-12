@@ -11,13 +11,13 @@ If you are interested in joining my lab as a postdoc, there are many ways to do 
 
 ### Postdoctoral Fellowships
 
-[Marie Skłodowska-Curie Individual Fellowships](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)
+[Marie Skłodowska-Curie Individual Fellowships (Global Fellowships)](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en)
 
 [Human Frontier Science Program Postdoctoral Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)
 
 [Life Sciences Research Foundation](http://www.lsrf.org/)
 
-[Aguron Geobiology Fellowships](https://agi.org/geobiology/fellowships/)
+[Agouron Geobiology Fellowships](https://agi.org/geobiology/fellowships/)
 
 [NSF Postdoctoral Research Fellowships in Biology  (PRFB)](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622)
 

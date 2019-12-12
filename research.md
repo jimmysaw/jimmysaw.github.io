@@ -14,3 +14,11 @@ is_contact: true
 ### Functional diversity in hot springs
 
 ### Cultivation of *Archaea* and *Bacteria* from hot springs
+
+## Fieldwork
+
+### 2019
+
+Hawaii (The Big Island)
+
+Utah and Oregon

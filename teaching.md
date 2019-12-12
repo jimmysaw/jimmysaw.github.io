@@ -8,6 +8,7 @@ is_contact: true
 ### Spring semesters
 
 Introductory Microbiology (BISC 2336)
+
 Introductory Microbiology Lab (BISC 2337)
 
 
