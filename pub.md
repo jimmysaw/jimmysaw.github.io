@@ -8,11 +8,9 @@ is_contact: true
 1. **Saw JH**, Malmstrom R, Woyke T, Temperton B, Sharpton T, Giovannoni SJ. Exploration of SAR11 hypervariable region diversity using hybrid sequencing technologies. In Prep.
 1. Pelve EA\*, **Saw JH**\*, Hedlund B, Nunoura T, Spang A, and Ettema TJG. Cultivation-independent genomics of marine and terrestrial Korarchaeota reveal insights into their diversity, evolution and ecology. In Prep.
 
-## In Review/Preprint
-1. **Saw JH**, Nunoura T, Hirai M, Takaki Y, Parsons R, Michelsen M, Longnecker K, Kujawinski EB, Stepanauskas R, Landry Z, Carlson CA, Giovannoni SJ (2019). Pangenomics reveal diversification of enzyme families and niche specialization in globally abundant SAR202 bacteria. bioRxiv.
-
 ## Published
-1. Giovannoni SJ, Halsey KH, **Saw J**, Muslin O, Suffridge CP, Sun J, Lee CP, Moore ER, Temperton B, Noell SE (2019). A Parasitic Arsenic Cycle That Shuttles Energy from Phytoplankton to Heterotrophic Bacterioplankton. **MBio**. 10(2). pii: e00246-19.
+1. **Saw JH**, Nunoura T, Hirai M, Takaki Y, Parsons R, Michelsen M, Longnecker K, Kujawinski EB, Stepanauskas R, Landry Z, Carlson CA, Giovannoni SJ (2020). Pangenomics reveal diversification of enzyme families and niche specialization in globally abundant SAR202 bacteria. **mBio**. DOI: 10.1128/mBio.02975-19.
+1. Giovannoni SJ, Halsey KH, **Saw J**, Muslin O, Suffridge CP, Sun J, Lee CP, Moore ER, Temperton B, Noell SE (2019). A Parasitic Arsenic Cycle That Shuttles Energy from Phytoplankton to Heterotrophic Bacterioplankton. **mBio**. 10(2). pii: e00246-19.
 1. Spang A\*, Eme L\*, **Saw JH**, Caceres EF, Zaremba-Niedzwiedzka K, Lombard J, Guy L, Ettema TJG (2018). Asgard archaea are the closest prokaryotic relatives of eukaryotes. **PLoS Genetics**. 14(3):e1007080.
 1. Zaremba-Niedzwiedzka K\*, Caceres EF\*, **Saw JH**\*, Bäckström D, Juzokaite L, Vancaester E, Seitz KW, Anantharaman K, Starnawski P, Kjeldsen KU, Stott MB, Nunoura T, Banfield JF, Schramm A, Baker BJ, Spang A, and Ettema TJG (2017). Metagenomic exploration of ASGARD archaea illuminates the origin of eukaryotic cellular complexity. **Nature**. 541(7637):353-358.
 1. Baker BJ, **Saw JH**, Lind AE, Lazar C, Hinrichs K-U, Teske A, and Ettema TJG (2016). Genomic inference of the metabolism of cosmopolitan subsurface Archaea, Hadesarchaea. **Nature Microbiology** 1: 16002.
