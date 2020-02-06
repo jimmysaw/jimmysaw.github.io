@@ -25,6 +25,7 @@ I am from Turkey. I received my bachelor's degree from the Department of Molecul
 
 ### Talia Shapiro (undergraduate student)
 
+### Sam Lee (undergraduate student)
 
 ### Maria Izzi (High school student)
 
