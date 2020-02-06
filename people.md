@@ -19,11 +19,11 @@ You can also check out my [Google Scholar](https://scholar.google.com/citations?
 
 I am from Turkey. I received my bachelor's degree from the Department of Molecular Biology and Genetics at Istanbul University in Turkey and my master's degree from the Munich Graduate School for Evolution, Ecology and Systematics at the Ludwig-Maximilians-University of Munich in Germany. I am currently a PhD student in the Department of Biological Sciences at the George Washington University. My research interests are focused on microbial genome evolution, evolutionary ecology of microbial populations, biogeochemical nutrient cycles, co-evolution of the biosphere and the geosphere, geomicrobiology, the origin and evolution of life on Earth and astrobiology. I also have a particular fascination with bacterial and archaeal species living in extreme environments, such as hydrothermal vents, geothermal hot springs, volcanoes, hypersaline lakes, deserts, Antarctic ice and the deep subsurface. My PhD research aims to discover novel microorganisms and functional pathways, characterize microbial activity, gain insights into the physiological adaptation and survival of microbial communities, and decipher microbe-mineral interactions in extreme environments considered as potential analogs for habitable zones on other planets and moons in order to expand our understanding of the origin, distribution, and evolution of life in the solar system/universe. My hobbies include hiking, visiting museums and ancient cities, and reading archaeology and history magazines.
 
-### Natalia Monsalve
+### Natalia Monsalve (undergraduate student)
 
-### Alison Pagalilauan
+### Alison Pagalilauan (undergraduate student)
 
-### Talia Shapiro
+### Talia Shapiro (undergraduate student)
 
 
 ### Maria Izzi (High school student)
