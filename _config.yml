@@ -15,3 +15,5 @@ footer_text: "Home"
 sass:
     style: compressed
     sass_dir: _sass
+
+theme: jekyll-theme-cayman
