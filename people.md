@@ -9,7 +9,7 @@ is_contact: true
 
 <img class="profile-picture" src="images/ap.jpg">
 
-         
+Alison is currently a rising senior at GW majoring in Biology.         
 
 ### Haley Quinn (undergraduate student)
 
