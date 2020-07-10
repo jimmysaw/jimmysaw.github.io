@@ -45,6 +45,10 @@ Hello, I am a current junior studying biology at GWU. Following off previous res
 
 ### Talia Shapiro (undergraduate student)
 
+<img class="profile-picture" src="images/ts.jpg">
+
+Hi! I am a junior in the BS/MPH program studying public health with a pre-medicine concentration and a minor in biology. I serve as an undergraduate ambassador for the school of public health and intern for the Centers for Disease Control and Prevention in Atlanta and DC. I also work closely with a local DC organization called “One Tent Health” that offers free HIV testing for members of the DC community in need, helping to ensure that all shifts are covered by volunteers and run smoothly. This summer, in addition to microbiology research, I have been volunteering with the American Red Cross to help ensure blood drives run smoothly in accordance with CDC guidelines regarding the coronavirus pandemic.
+
 ## Lab alumni
 
   - Natalia Monsalve
