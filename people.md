@@ -9,7 +9,7 @@ is_contact: true
 
 <img class="profile-picture" src="images/ap.jpg">
 
-Alison is currently a rising senior at GW majoring in Biology.         
+Hello! I am a senior at GW majoring in cellular and molecular biology and minoring in STEM teaching. When I'm not researching microbial diversity, you can find me working as a clinical assistant at Curative Inc., a COVID-19 detection lab. I hope to pursue graduate school and refine my research interests which include host-microbe interactions, ecological evolutionary development, and genetic bases of eusociality. In my free time, I enjoy trying new recipes and biking around DC.
 
 ### Haley Quinn (undergraduate student)
 
