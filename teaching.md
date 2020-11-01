@@ -14,7 +14,7 @@ Introductory Microbiology Lab (BISC 2337)
 
 ### Fall semesters
 
-Microbial Genomics (BISC 4234)
+Microbial Genomics Laboratory (BISC 4234/6234)
 
 
 
