@@ -5,17 +5,25 @@ is_contact: true
 
 ## Current Lab members
 
-### Alison Pagalilauan (undergraduate student)
+### Alison Pagalilauan (BS/MS student)
 
 <img class="profile-picture" src="images/ap.jpg">
 
 Alison is currently a rising senior at GW majoring in Biology.         
+
+### Chengxuan Zhang (MS student)
 
 ### Haley Quinn (undergraduate student)
 
 <img class="profile-picture" src="images/hq.jpg">
 
 I am an undergraduate student at GWU from Massachusetts. I will be graduating spring of 2021 with a bachelor’s degree in biology with a cellular and molecular biology concentration and a minor in sociology. In addition to researching microbial diversity in Dr. Saw’s lab, I am also a TA and lab prep assistant for introductory biology labs, and an LA and Academic Commons tutor for introductory biology lectures. I hope to combine my passions for biology, teaching, and research into a career by pursuing a PhD and becoming a professor.
+
+### Henry Becker (undergraduate student)
+
+<img class="profile-picture" src="images/henryb.jpg">
+
+Hey there, my name is Henry Becker. I'm a senior in the Honors Program at GW. I will be graduating with a biology major concentration in cell and molecular biology and a computer science minor. I'm interested in bioinformatics and genomics especially. My career goal is to use big data to help solve problems of global hunger, poverty, and disease. In my free time I like to skate, play guitar, and explore DC.
 
 ### Jimmy Saw (Principle Investigator)
 
