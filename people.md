@@ -21,7 +21,7 @@ I am an undergraduate student at GWU from Massachusetts. I will be graduating sp
 
 ### Henry Becker (undergraduate student)
 
-<img class="profile-picture" src="images/henryb.jpg">
+<img class="profile-picture" src="images/hb.png">
 
 Hey there, my name is Henry Becker. I'm a senior in the Honors Program at GW. I will be graduating with a biology major concentration in cell and molecular biology and a computer science minor. I'm interested in bioinformatics and genomics especially. My career goal is to use big data to help solve problems of global hunger, poverty, and disease. In my free time I like to skate, play guitar, and explore DC.
 
