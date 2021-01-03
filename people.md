@@ -45,6 +45,12 @@ I am from Turkey. I received my bachelor's degree from the Department of Molecul
 
 Maria is a student with a passion for bioinformatics and artificial intelligence. She has experience with various basic lab procedures and assays, and is always excited and eager to learn as much as possible. She is involved with a number of activities and non-profits, and works to promote computer science education in underrepresented groups. Maria is also a leader and planner for many STEM events in her community. She will be studying microbial genomics and bioinformatics, as well as artificial intelligence, next year.
 
+### Max Shlafstein (undergraduate student)
+
+<img class="profile-picture" src="images/max.jpg">
+
+Hello everyone! I am currently a senior at GW majoring in biology and minoring in both human anatomy and chemistry. I have become fascinated with metagenomics and genome assembly as tools to visualize microbial ecology of unique environments. I hope to utilize these tools to reveal evolutionarily significant microbial lineages within these communities. I am also a pre-med student and plan to work as an EMT during my gap year. When I’m not in classes I enjoy playing tennis and trying food from around DC!
+
 ### Sam Lee (undergraduate student)
 
 <img class="profile-picture" src="images/sl.jpg">
