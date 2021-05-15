@@ -5,7 +5,9 @@ is_contact: true
 
 ## Postdoctoral opportunities
 
-I will be posting an ad in the near future to recruit a postdoctoral researcher to work in my lab.
+There is a postdoctoral position available in my lab. Please see the posting below. The position will remain open until May 30, 2021.
+
+https://www.gwu.jobs/postings/82848
 
 If you are interested in joining my lab as a postdoc, there are many ways to do it besides applying to an advertised position. I have listed below some of the postdoctoral fellowships available. If you are interested in applying for one of the fellowships, please contact me.
 
