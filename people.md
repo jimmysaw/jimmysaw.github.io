@@ -13,17 +13,6 @@ Hello! I am a senior at GW majoring in cellular and molecular biology and minori
 
 ### Chengxuan Zhang (MS student)
 
-### Haley Quinn (undergraduate student)
-
-<img class="profile-picture" src="images/hq.jpg">
-
-I am an undergraduate student at GWU from Massachusetts. I will be graduating spring of 2021 with a bachelor’s degree in biology with a cellular and molecular biology concentration and a minor in sociology. In addition to researching microbial diversity in Dr. Saw’s lab, I am also a TA and lab prep assistant for introductory biology labs, and an LA and Academic Commons tutor for introductory biology lectures. I hope to combine my passions for biology, teaching, and research into a career by pursuing a PhD and becoming a professor.
-
-### Henry Becker (undergraduate student)
-
-<img class="profile-picture" src="images/hb.png">
-
-Hey there, my name is Henry Becker. I'm a senior in the Honors Program at GW. I will be graduating with a biology major concentration in cell and molecular biology and a computer science minor. I'm interested in bioinformatics and genomics especially. My career goal is to use big data to help solve problems of global hunger, poverty, and disease. In my free time I like to skate, play guitar, and explore DC.
 
 ### Jimmy Saw (Principle Investigator)
 
@@ -38,12 +27,6 @@ You can also check out my [Google Scholar](https://scholar.google.com/citations?
 <img class="profile-picture" src="images/mb.jpg">
 
 I am from Turkey. I received my bachelor's degree from the Department of Molecular Biology and Genetics at Istanbul University in Turkey and my master's degree from the Munich Graduate School for Evolution, Ecology and Systematics at the Ludwig-Maximilians-University of Munich in Germany. I am currently a PhD student in the Department of Biological Sciences at the George Washington University. My research interests are focused on microbial genome evolution, evolutionary ecology of microbial populations, biogeochemical nutrient cycles, co-evolution of the biosphere and the geosphere, geomicrobiology, the origin and evolution of life on Earth and astrobiology. I also have a particular fascination with bacterial and archaeal species living in extreme environments, such as hydrothermal vents, geothermal hot springs, volcanoes, hypersaline lakes, deserts, Antarctic ice and the deep subsurface. My PhD research aims to discover novel microorganisms and functional pathways, characterize microbial activity, gain insights into the physiological adaptation and survival of microbial communities, and decipher microbe-mineral interactions in extreme environments considered as potential analogs for habitable zones on other planets and moons in order to expand our understanding of the origin, distribution, and evolution of life in the solar system/universe. My hobbies include hiking, visiting museums and ancient cities, and reading archaeology and history magazines.
-
-### Maria Izzi (High school student)
-
-<img class="profile-picture" src="images/mi2.jpg">
-
-Maria is a student with a passion for bioinformatics and artificial intelligence. She has experience with various basic lab procedures and assays, and is always excited and eager to learn as much as possible. She is involved with a number of activities and non-profits, and works to promote computer science education in underrepresented groups. Maria is also a leader and planner for many STEM events in her community. She will be studying microbial genomics and bioinformatics, as well as artificial intelligence, next year.
 
 ### Max Shlafstein (undergraduate student)
 
@@ -63,3 +46,6 @@ Hello, I am a current junior studying biology at GWU. Following off previous res
   - Saleh Naeem
   - Sarah Schmoyer
   - Talia Shapiro
+  - Haley Quinn
+  - Henry Becker
+  - Maria Izzi
