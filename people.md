@@ -13,6 +13,10 @@ Hello! I am a senior at GW majoring in cellular and molecular biology and minori
 
 ### Chengxuan Zhang (MS student)
 
+<img class="profile-picture" src="images/cz.jpg">
+
+Hi, This is Chengxuan Zhang (张承瑄). I received my BS in Biology from Purdue University and I am currently an MS student at GW. My research focus now is microbiology and bioinformatics. I studied plant pathology and soil microbiology of tomatoes during my undergraduate studies. My dream research goal is to assemble genetically modified organisms that can synthesize L-glucose, an indigestible replacement of dietary dextrose. I was born in Beijing, but have spent most of my life time studying in the US. I love music and poetry, as well as cooking. Another interest of mine is travelling to places far away from civilization, such as mountains and deserts. 
+
 
 ### Jimmy Saw (Principle Investigator)
 
