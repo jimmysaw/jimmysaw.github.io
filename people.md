@@ -19,11 +19,15 @@ You can also check out my [Google Scholar](https://scholar.google.com/citations?
 
 Working on archaeal diversity and genomics.
 
+&nbsp;
+
 ### Chengxuan Zhang (MS student)
 
 <img class="profile-picture" src="images/cz.jpg">
 
 Working on targeted cultivation of novel bacterial lineages.
+
+&nbsp;
 
 ### Alison Pagalilauan (BS/MS student - co-supervised by Adam Smith)
 
@@ -31,9 +35,13 @@ Working on targeted cultivation of novel bacterial lineages.
 
 Working on ant microbiomes.
 
+&nbsp;
+
 ### Chloe Shaw (BS/MS student - co-supervised by Courtney Smith)
 
 Working on Bald Sea Urchin Disease and their microbiomes.
+
+&nbsp;
 
 ### Max Shlafstein (undergraduate student)
 
@@ -41,12 +49,15 @@ Working on Bald Sea Urchin Disease and their microbiomes.
 
 Working on microbial diversity and metagenomics.
 
+&nbsp;
+
 ### Sam Lee (undergraduate student)
 
 <img class="profile-picture" src="images/sl.jpg">
 
 Working on targeted cultivation of novel *Chloroflexi* lineages.
 
+&nbsp;
 
 ## Lab alumni
 
