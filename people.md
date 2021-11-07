@@ -65,6 +65,8 @@ Working on targeted cultivation of novel *Chloroflexi* lineages.
 
 Researching how to specialize and finetune olfactory receptors to optimize nutrient acquisition.
 
+&nbsp;
+
 ## Lab alumni
 
   - Natalia Monsalve
