@@ -59,6 +59,12 @@ Working on targeted cultivation of novel *Chloroflexi* lineages.
 
 &nbsp;
 
+### Jack (dogtoral researcher)
+
+<img class="profile-picture" src="images/jack.jpg">
+
+Researching how to specialize and finetune olfactory receptors to optimize nutrient acquisition.
+
 ## Lab alumni
 
   - Natalia Monsalve
