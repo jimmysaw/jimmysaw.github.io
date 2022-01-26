@@ -78,7 +78,7 @@ Working on targeted cultivation of novel *Chloroflexi* lineages.
 
 <img class="profile-picture" src="images/jack.jpg">
 
-Researching how to specialize and finetune olfactory receptors to optimize nutrient acquisition.
+Researching how to specialize and finetune olfactory receptors to maximize nutrient acquisition.
 
 &nbsp;
 &nbsp;
