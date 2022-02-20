@@ -51,6 +51,8 @@ Working on ant microbiomes.
 
 ### Chloe Shaw (BS/MS student - co-supervised by Courtney Smith)
 
+<img class="profile-picture" src="images/su.png">
+
 Working on Bald Sea Urchin Disease and their microbiomes.
 
 &nbsp;
