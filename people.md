@@ -56,7 +56,7 @@ Working on Bald Sea Urchin Disease and their microbiomes.
 &nbsp;
 &nbsp;
 
-### Max Shlafstein (undergraduate student)
+### Max Shlafstein (postbac student)
 
 <img class="profile-picture" src="images/max.jpg">
 
@@ -70,6 +70,33 @@ Working on microbial diversity and metagenomics.
 <img class="profile-picture" src="images/sl.jpg">
 
 Working on targeted cultivation of novel *Chloroflexi* lineages.
+
+&nbsp;
+&nbsp;
+
+### Guin Lissner (undergraduate student)
+
+<img class="profile-picture" src="images/gl.jpg">
+
+Working on cultivation of microbes from various environmental samples.
+
+&nbsp;
+&nbsp;
+
+### Lausanne Oliver (undergraduate student)
+
+<img class="profile-picture" src="images/llo.png">
+
+Working on cultivation of microbes from various environmental samples.
+
+&nbsp;
+&nbsp;
+
+### Kaitlynn Slattery (undergraduate student)
+
+<img class="profile-picture" src="images/ks.jpg">
+
+Working on cultivation of microbes from various environmental samples.
 
 &nbsp;
 &nbsp;
