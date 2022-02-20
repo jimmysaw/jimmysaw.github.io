@@ -11,4 +11,4 @@ The lineages we are currently targetting include *Gloeobacter* species and close
 
 We are also interested in non-photosynthetic cyanobacterial lineages from various locations. A picture below shows a phototrophic biofilm dominated by rare cyanobacterial species known as *Gloeobacter*, which was found near steam vents of Hawaii.
 
-<img src="images/gloeo.jpg" alt="Biofilm sample dominated by *Gloeobacter kilaueensis* near a steam vent in Hawaii" title="Biofilm sample dominated by *Gloeobacter kilaueensis* near a steam vent in Hawaii">
+<img src="images/gloeo.jpg" alt="Biofilm sample dominated by <em>Gloeobacter kilaueensis</em> near a steam vent in Hawaii" title="Biofilm sample dominated by *Gloeobacter kilaueensis* near a steam vent in Hawaii">
