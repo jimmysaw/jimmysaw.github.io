@@ -5,15 +5,27 @@ is_contact: true
 
 ## Ongoing research projects (*under construction*)
 
-### [Diversity and evolution of early oxygenic phototrophs](cyanos.md)
+## Diversity and evolution of early oxygenic phototrophs
 
-### [Microbial community assemblage in hot springs](hotsprings.md)
+We are interested in diversity, ecology, and evolution of early oxygenic phototrophs and currently working towards acquiring them from various habitats.
+Some of the lineages we are especially interested in are those that may have evolved the ability to produce oxygen gas as a byproduct of photosynthesis.
+The lineages we are currently targetting include *Gloeobacter* species and closely related cyanobacteria.
 
-### [SAR202 diversity and evolution](sar202.md)
+We are also interested in non-photosynthetic cyanobacterial lineages from various locations. A picture below shows a phototrophic biofilm dominated by rare cyanobacterial species known as *Gloeobacter*, which was found near steam vents of Hawaii.
 
-### Functional diversity in hot springs
+<img src="images/gloeo.jpg" alt="Biofilm sample dominated by <em>Gloeobacter kilaueensis</em> near a steam vent in Hawaii" title="Biofilm sample dominated by *Gloeobacter kilaueensis* near a steam vent in Hawaii">
 
-### Cultivation of *Archaea* and *Bacteria* from hot springs
+## Microbial community assemblage in hot springs
+
+We are interested in how microbial communities form in different hot springs and predictability of how such communities form.
+
+We have recently collected samples from hot springs around Utah and Oregon. You can see an aerial footage of hot springs from a location in Oregon below.
+
+<center><iframe src="https://player.vimeo.com/video/366172777" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
+
+## Functional diversity in hot springs
+
+## Cultivation of *Archaea* and *Bacteria* from hot springs
 
 ## Fieldwork
 
