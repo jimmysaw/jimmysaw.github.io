@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-## Ongoing research projects (*under construction*)
+## Ongoing research projects
 
 ## Diversity and evolution of early oxygenic phototrophs
 
@@ -23,9 +23,11 @@ We have recently collected samples from hot springs around Utah and Oregon. You 
 
 <center><iframe src="https://player.vimeo.com/video/366172777" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 
-## Functional diversity in hot springs
+## Targeted cultivation of *Archaea* and *Bacteria* from various environments
 
-## Cultivation of *Archaea* and *Bacteria* from hot springs
+<img src="images/Gmor.jpg" alt="<em>Gloeobacter morelensis</em> on BG11" title="*Gloeobacter morelensis* on BG11">
+
+We are interested in targeted cultivation and characterization of novel bacterial and archaeal lineages from various environments. We use a combination of cultivation, microscopy, and sequencing methods to study these lineages.
 
 ## Fieldwork
 
