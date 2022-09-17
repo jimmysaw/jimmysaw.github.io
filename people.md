@@ -31,6 +31,13 @@ Working on archaeal diversity and genomics.
 &nbsp;
 &nbsp;
 
+### Pia Sen (PhD student)
+
+<img class="profile-picture" src="images/pia.png">
+
+&nbsp;
+&nbsp;
+
 ### Chengxuan Zhang (MS student)
 
 <img class="profile-picture" src="images/cz.jpg">
