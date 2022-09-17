@@ -35,6 +35,8 @@ Working on archaeal diversity and genomics.
 
 <img class="profile-picture" src="images/pia.png">
 
+Working on microbial diversity in extreme environments.
+
 &nbsp;
 &nbsp;
 
