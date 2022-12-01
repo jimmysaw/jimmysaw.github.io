@@ -35,7 +35,7 @@ Working on archaeal diversity and genomics.
 
 <img class="profile-picture" src="images/pia.png">
 
-Working on microbial diversity in extreme environments.
+Working on microbial diversity and the roles of viruses in extreme environments.
 
 &nbsp;
 &nbsp;
@@ -44,16 +44,16 @@ Working on microbial diversity in extreme environments.
 
 <img class="profile-picture" src="images/cz.jpg">
 
-Working on targeted cultivation of novel bacterial lineages.
+Working on metagenomics of novel *Actinobacteria* from Hawaiian steam vents.
 
 &nbsp;
 &nbsp;
 
-### Alison Pagalilauan (BS/MS student - co-supervised by Adam Smith)
+### Lausanne Oliver (BS/MS student)
 
-<img class="profile-picture" src="images/ap.jpg">
+<img class="profile-picture" src="images/llo.png">
 
-Working on ant microbiomes.
+Working on cultivation of microbes from various environmental samples.
 
 &nbsp;
 &nbsp;
@@ -80,34 +80,16 @@ Working on microbial diversity and metagenomics.
 
 <img class="profile-picture" src="images/sl.jpg">
 
-Working on targeted cultivation of novel *Chloroflexi* lineages.
+Working on metagenomics and targeted cultivation of novel *Chloroflexi* lineages from Hawaiian steam vents.
 
 &nbsp;
 &nbsp;
 
-### Guin Lissner (undergraduate student)
+### Mona Hajjar (undergraduate student)
 
-<img class="profile-picture" src="images/gl.jpg">
+<img class="profile-picture" src="images/mona.jpg">
 
-Working on cultivation of microbes from various environmental samples.
-
-&nbsp;
-&nbsp;
-
-### Lausanne Oliver (undergraduate student)
-
-<img class="profile-picture" src="images/llo.png">
-
-Working on cultivation of microbes from various environmental samples.
-
-&nbsp;
-&nbsp;
-
-### Kaitlynn Slattery (undergraduate student)
-
-<img class="profile-picture" src="images/ks.jpg">
-
-Working on cultivation of microbes from various environmental samples.
+Working on targeted cultivation of novel *Actinobacteria* from Hawaiian steam vents
 
 &nbsp;
 &nbsp;
@@ -123,6 +105,9 @@ Researching how to specialize and finetune olfactory receptors to maximize nutri
 
 ## Lab alumni
 
+  - Alison Pagalilauan
+  - Kaitlynn Slattery
+  - Guin Lissner
   - Natalia Monsalve
   - Saleh Naeem
   - Sarah Schmoyer
