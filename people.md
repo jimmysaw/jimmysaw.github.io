@@ -13,15 +13,6 @@ Hi, everyone! I am fascinated by microbes and their diversity! I attended the Un
 I then did postdoctoral research on archaeal diversity and evolution with Thijs Ettema at Uppsala University in Sweden from 2012 to 2016 where we discovered the Lokiarchaeota and Asgardarchaeota, then did another postdoctoral research on SAR11 and SAR202 pangenomics with Steve Giovannoni at Oregon State University from 2016 to 2018.
 You can also check out my [Google Scholar](https://scholar.google.com/citations?user=9Vx-JTgAAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0001-8353-3854), and [Publons](https://publons.com/researcher/1441615/jimmy-saw/) pages.
 
-### Christina Pavloudi (Postdoctoral Researcher)
-
-<img class="profile-picture" src="images/pav.jpg">
-
-Working on microbial ecology and diversity in various extreme habitats.
-
-&nbsp;
-&nbsp;
-
 ### Manolya Balbay (PhD student)
 
 <img class="profile-picture" src="images/mb.jpg">
@@ -49,29 +40,11 @@ Working on metagenomics of novel *Actinobacteria* from Hawaiian steam vents.
 &nbsp;
 &nbsp;
 
-### Lausanne Oliver (BS/MS student)
+### Lausanne Oliver (undergraduate student)
 
 <img class="profile-picture" src="images/llo.png">
 
 Working on cultivation of microbes from various environmental samples.
-
-&nbsp;
-&nbsp;
-
-### Chloe Shaw (BS/MS student - co-supervised by Courtney Smith)
-
-<img class="profile-picture" src="images/su.png">
-
-Working on Bald Sea Urchin Disease and their microbiomes.
-
-&nbsp;
-&nbsp;
-
-### Max Shlafstein (postbac student)
-
-<img class="profile-picture" src="images/max.jpg">
-
-Working on microbial diversity and metagenomics.
 
 &nbsp;
 &nbsp;
@@ -105,6 +78,9 @@ Researching how to specialize and finetune olfactory receptors to maximize nutri
 
 ## Lab alumni
 
+  - Christina Pavloudi
+  - Max Shlafstein
+  - Chloe Shaw
   - Alison Pagalilauan
   - Kaitlynn Slattery
   - Guin Lissner
