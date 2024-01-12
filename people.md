@@ -78,16 +78,18 @@ Researching how to specialize and finetune olfactory receptors to maximize nutri
 
 ## Lab alumni
 
-  - Christina Pavloudi
-  - Max Shlafstein
-  - Chloe Shaw
-  - Alison Pagalilauan
-  - Kaitlynn Slattery
-  - Guin Lissner
-  - Natalia Monsalve
-  - Saleh Naeem
-  - Sarah Schmoyer
-  - Talia Shapiro
-  - Haley Quinn
-  - Henry Becker
-  - Maria Izzi
+  - Christina Pavloudi (postdoc)
+  - Max Shlafstein (undergrad)
+  - Chloe Shaw (BS/MS student)
+  - Brooke Cody (undergrad)
+  - Alison Pagalilauan (BS/MS student)
+  - Kaitlynn Slattery (undergrad)
+  - Guin Lissner (undergrad)
+  - Natalia Monsalve (undergrad)
+  - Keerthi Selvam (high school student)
+  - Saleh Naeem (undergrad)
+  - Sarah Schmoyer (undergrad)
+  - Talia Shapiro (undergrad)
+  - Haley Quinn (undergrad)
+  - Henry Becker (undergrad)
+  - Maria Izzi (high school student)
