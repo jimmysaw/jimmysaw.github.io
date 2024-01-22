@@ -58,15 +58,6 @@ Working on metagenomics and targeted cultivation of novel *Chloroflexi* lineages
 &nbsp;
 &nbsp;
 
-### Mona Hajjar (undergraduate student)
-
-<img class="profile-picture" src="images/mona.jpg">
-
-Working on targeted cultivation of novel *Actinobacteria* from Hawaiian steam vents
-
-&nbsp;
-&nbsp;
-
 ### Jack (dogtoral researcher)
 
 <img class="profile-picture" src="images/jack.jpg">
@@ -78,6 +69,7 @@ Researching how to specialize and finetune olfactory receptors to maximize nutri
 
 ## Lab alumni
 
+  - Mona Hajjar (undergrad)
   - Christina Pavloudi (postdoc)
   - Max Shlafstein (undergrad)
   - Chloe Shaw (BS/MS student)
