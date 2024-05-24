@@ -13,6 +13,16 @@ Hi, everyone! I am fascinated by microbes and their diversity! I attended the Un
 I then did postdoctoral research on archaeal diversity and evolution with Thijs Ettema at Uppsala University in Sweden from 2012 to 2016 where we discovered the Lokiarchaeota and Asgardarchaeota, then did another postdoctoral research on SAR11 and SAR202 pangenomics with Steve Giovannoni at Oregon State University from 2016 to 2018.
 You can also check out my [Google Scholar](https://scholar.google.com/citations?user=9Vx-JTgAAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0001-8353-3854), and [Publons](https://publons.com/researcher/1441615/jimmy-saw/) pages.
 
+
+### Shekhar Nagar (Postdoctoral researcher)
+
+<img class="profile-picture" src="">
+
+Working on microbial diversity in geothermal habitats.
+
+&nbsp;
+&nbsp;
+
 ### Manolya Balbay (PhD student)
 
 <img class="profile-picture" src="images/mb.jpg">
@@ -31,16 +41,7 @@ Working on microbial diversity and the roles of viruses in extreme environments.
 &nbsp;
 &nbsp;
 
-### Chengxuan Zhang (MS student)
-
-<img class="profile-picture" src="images/cz.jpg">
-
-Working on metagenomics of novel *Actinobacteria* from Hawaiian steam vents.
-
-&nbsp;
-&nbsp;
-
-### Lausanne Oliver (undergraduate student)
+### Lausanne Oliver (PhD student - Fall 2024)
 
 <img class="profile-picture" src="images/llo.png">
 
@@ -49,7 +50,16 @@ Working on cultivation of microbes from various environmental samples.
 &nbsp;
 &nbsp;
 
-### Sam Lee (undergraduate student)
+### May May Hubbard (undergraduate student)
+
+<img class="profile-picture" src="">
+
+Working on cultivating novel microbes from extreme habitats.
+
+&nbsp;
+&nbsp;
+
+### Sam Lee (Post-bac student)
 
 <img class="profile-picture" src="images/sl.jpg">
 
@@ -69,6 +79,7 @@ Researching how to specialize and finetune olfactory receptors to maximize nutri
 
 ## Lab alumni
 
+  - Chengxuan Zhang (MS student)
   - Mona Hajjar (undergrad)
   - Christina Pavloudi (postdoc)
   - Max Shlafstein (undergrad)
