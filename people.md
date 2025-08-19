@@ -23,24 +23,6 @@ Working on microbial diversity in geothermal habitats.
 &nbsp;
 &nbsp;
 
-### Manolya Balbay (PhD student)
-
-<img class="profile-picture" src="images/mb.jpg">
-
-Working on archaeal diversity and genomics.
-
-&nbsp;
-&nbsp;
-
-### Pia Sen (PhD student)
-
-<img class="profile-picture" src="images/pia.png">
-
-Working on microbial diversity and the roles of viruses in extreme environments.
-
-&nbsp;
-&nbsp;
-
 ### Lausanne Oliver (PhD student - Fall 2024)
 
 <img class="profile-picture" src="images/llo.png">
@@ -50,23 +32,10 @@ Working on cultivation of microbes from various environmental samples.
 &nbsp;
 &nbsp;
 
-### May May Hubbard (undergraduate student)
-
-<img class="profile-picture" src="">
-
-Working on cultivating novel microbes from extreme habitats.
 
 &nbsp;
 &nbsp;
 
-### Sam Lee (Post-bac student)
-
-<img class="profile-picture" src="images/sl.jpg">
-
-Working on metagenomics and targeted cultivation of novel *Chloroflexi* lineages from Hawaiian steam vents.
-
-&nbsp;
-&nbsp;
 
 ### Jack (dogtoral researcher)
 
@@ -79,6 +48,10 @@ Researching how to specialize and finetune olfactory receptors to maximize nutri
 
 ## Lab alumni
 
+  - Pia Sen (PhD student)
+  - Manolya Gul Balbay (PhD student)
+  - May May Hubbard (undergrad)
+  - Sam Lee (undergrad)
   - Chengxuan Zhang (MS student)
   - Mona Hajjar (undergrad)
   - Christina Pavloudi (postdoc)
