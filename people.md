@@ -16,7 +16,7 @@ You can also check out my [Google Scholar](https://scholar.google.com/citations?
 
 ### Shekhar Nagar (Postdoctoral researcher)
 
-<img class="profile-picture" src="">
+<img class="profile-picture" src="images/shekhar.jpg">
 
 Working on microbial diversity in geothermal habitats.
 
@@ -25,7 +25,7 @@ Working on microbial diversity in geothermal habitats.
 
 ### Lausanne Oliver (2nd year PhD student)
 
-<img class="profile-picture" src="images/llo2.png">
+<img class="profile-picture" src="images/llo2.jpg">
 
 Working on characterization of archaeal and viral communities inhabiting hot springs using both cultivation independent and dependent based methods.
 
@@ -48,7 +48,7 @@ Hi! I am a senior undergraduate student majoring in Cellular and Molecular Biolo
 
 ### Zhihe Zhong (Junior Undergraduate Student)
 
-<img class="profile-picture" src="images/zhihe.jpg">
+<img class="profile-picture" src="images/zhihe.png">
 
 Working on the cultivation of microbes and cave microbes.
 
