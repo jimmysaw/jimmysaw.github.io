@@ -37,7 +37,7 @@ Working on characterization of archaeal and viral communities inhabiting hot spr
 &nbsp;
 &nbsp;
 
-### Adeline Monk (Senior Undergraduate Student)
+### Adeline Monks (Senior Undergraduate Student)
 
 <img class="profile-picture" src="images/amonk.jpg">
 
@@ -47,6 +47,8 @@ Hi! I am a senior undergraduate student majoring in Cellular and Molecular Biolo
 &nbsp;
 
 ### Zhihe Zhong (Junior Undergraduate Student)
+
+<img class="profile-picture" src="images/zhihe.jpg">
 
 Working on the cultivation of microbes and cave microbes.
 
