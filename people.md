@@ -57,6 +57,9 @@ Working on the cultivation of microbes and cave microbes.
 
 ### Stanislava Dinkova (Sophomore Undergraduate Student)
 
+<img class="profile-picture" src="images/sisi.jpg">
+
+My name is Stanislava Dinkova, and I'm a sophomore studying Molecular and Cellular Biology with a minor in Bioinformatics here at GWU. I am currently exploring different fields of biology through my classes, but I am mostly curious about gene expression mechanisms, how they work and differ in prokaryotic and eukaryotic organisms and how we can relate those to fighting viruses. Another topic that I am passionate about but haven't gotten the chance to explore as much is cancer mechanisms and treatments. In Dr. Saw's lab I will be focusing on the Bioinformatics side in terms of reading and sorting out hot spring metagenomic data.
 
 &nbsp;
 &nbsp;
