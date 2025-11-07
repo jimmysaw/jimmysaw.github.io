@@ -18,7 +18,7 @@ You can also check out my [Google Scholar](https://scholar.google.com/citations?
 
 <img class="profile-picture" src="images/shekhar.jpg">
 
-Working on microbial diversity in geothermal habitats.
+Exploring the functional dynamics of metagenome-assembled genomes in Hydrothermal steam vents and hot springs.
 
 &nbsp;
 &nbsp;
