@@ -55,6 +55,10 @@ Working on the cultivation of microbes and cave microbes.
 &nbsp;
 &nbsp;
 
+### Katherine McNicholas (Sophomore Undergraduate Student)
+
+<img class="profile-picture" src="">
+
 ### Stanislava Dinkova (Sophomore Undergraduate Student)
 
 <img class="profile-picture" src="images/sisi.jpg">
