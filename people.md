@@ -14,15 +14,6 @@ I then did postdoctoral research on archaeal diversity and evolution with Thijs 
 You can also check out my [Google Scholar](https://scholar.google.com/citations?user=9Vx-JTgAAAAJ&hl=en&oi=ao), [ORCID](https://orcid.org/0000-0001-8353-3854), and [Publons](https://publons.com/researcher/1441615/jimmy-saw/) pages.
 
 
-### Shekhar Nagar (Postdoctoral researcher)
-
-<img class="profile-picture" src="images/shekhar.jpg">
-
-Exploring the functional dynamics of metagenome-assembled genomes in Hydrothermal steam vents and hot springs.
-
-&nbsp;
-&nbsp;
-
 ### Lausanne Oliver (2nd year PhD student)
 
 <img class="profile-picture" src="images/llo2.jpg">
@@ -32,7 +23,19 @@ Working on characterization of archaeal and viral communities inhabiting hot spr
 &nbsp;
 &nbsp;
 
+
+### Abrham Eshete (Lab Technician)
+
+<img class="profile-picture" src="images/abrham.png">
+
+Exploring diversity and functional roles of microbes from geothermal habitats.
+
+
 ### Abby Clark (BS/MS student)
+
+<img class="profile-picture" src="images/abby.png">
+
+Working on pink phytoplankton bloom from Maui.
 
 &nbsp;
 &nbsp;
